@@ -6,8 +6,6 @@
   - [Algorithm for file updates in Python](https://github.com/petermancina/PythonFileUpdatesAlgo)
 - <b>SQL Projects</b>
   - [Investigation of Suspicious Login Attempts with SQL Queries](https://github.com/petermancina/SQLLoginInvestigation)
-- <b>Incident Reports</b>
-  - [Investigating a DNS Server Failure](https://github.com/petermancina/IncidentReportDNS)
 - <b>Linux Projects</b>
   - [Modifying File Permissions in Linux](https://github.com/petermancina/LinuxFilePermissions)
 - <b>Vulnerability Assessments</b>
