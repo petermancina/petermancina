@@ -1,6 +1,6 @@
 <h1>Hi, I'm Peter! <br/><a href="https://www.linkedin.com/in/peter-mancina/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>🛡️ Cybersecurity Projects:</h2>
 
 - <b>Python Projects</b>
   - [Algorithm for file updates in Python](https://github.com/petermancina/PythonFileUpdatesAlgo)
@@ -11,7 +11,7 @@
 - <b>Linux Projects</b>
   - [Modifying File Permissions in Linux](https://github.com/petermancina/LinuxFilePermissions)
  
-<h2>📺 My Loom Network Security Videos</h2>
+<h2>🎬 My Loom Network Security Videos</h2>
 
 - [Configure IPv6 ACLs to Stop DDoS](https://www.loom.com/share/980c9a5245c04142be17262dbc31b700)
 - [Configuring Extended IPv4 ACLs on Cisco Routers](https://www.loom.com/share/3085735c0798487eaedfc695ef7fccb2)
@@ -35,7 +35,7 @@
 - [Connecting to a Web Server](https://www.loom.com/share/1251b64108bf43469fe120a9ce01f87f)
 - [Configuring a Wireless Router and Clients](https://www.loom.com/share/f3cd34bf76524b97995aedcc8165f5fa)
 
-<h2> 🤳 Connect with me on LinkedIn!</h2>
+<h2> 🔗 Connect with me on LinkedIn!</h2>
 
 [<img align="left" alt="PeterMancina | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
