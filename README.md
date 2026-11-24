@@ -1,6 +1,6 @@
 <h1>Hi, I'm Peter! <br/><a href="https://www.linkedin.com/in/peter-mancina/">Cybersecurity Professional</a></h1>
 
-<h2>🛡️ Cybersecurity Projects:</h2>
+<h2>🛡️ Cybersecurity Projects</h2>
 
 - <b>Python Projects</b>
   - [Algorithm for file updates in Python](https://github.com/petermancina/PythonFileUpdatesAlgo)
@@ -10,7 +10,11 @@
   - [Investigating a DNS Server Failure](https://github.com/petermancina/IncidentReportDNS)
 - <b>Linux Projects</b>
   - [Modifying File Permissions in Linux](https://github.com/petermancina/LinuxFilePermissions)
- 
+- <b>Vulnerability Assessments</b>
+  - [Vulnerability Assessment Report for Kioptrix_3 Linux VM](https://github.com/petermancina/VulnReportKioptrix3)
+- <b>SIEM Dashboards</b>
+  - [Elastic VPN Connections Dashboard](https://github.com/petermancina/SIEMElastic)
+
 <h2>🎬 My Loom Network Security Videos</h2>
 
 - [Configure IPv6 ACLs to Stop DDoS](https://www.loom.com/share/980c9a5245c04142be17262dbc31b700)
