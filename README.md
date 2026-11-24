@@ -14,9 +14,8 @@
   - [Vulnerability Assessment Report for Kioptrix_3 Linux VM](https://github.com/petermancina/VulnReportKioptrix3)
 - <b>SIEM Dashboards</b>
   - [Elastic VPN Connections Dashboard](https://github.com/petermancina/SIEMElastic)
-
-
-
+- <b>Home Lab Projects</b>
+  - [Active Directory Home Lab](https://github.com/petermancina/HomeLabAD)
 
 <h2>🎬 My Loom Network Security Videos</h2>
 
