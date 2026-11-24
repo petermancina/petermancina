@@ -15,6 +15,9 @@
 - <b>SIEM Dashboards</b>
   - [Elastic VPN Connections Dashboard](https://github.com/petermancina/SIEMElastic)
 
+
+
+
 <h2>🎬 My Loom Network Security Videos</h2>
 
 - [Configure IPv6 ACLs to Stop DDoS](https://www.loom.com/share/980c9a5245c04142be17262dbc31b700)
@@ -38,6 +41,22 @@
 - [Configuring DHCP on a Wireless Router](https://www.loom.com/share/e6d6518e34c84922ae5090e70ffaf4a6)
 - [Connecting to a Web Server](https://www.loom.com/share/1251b64108bf43469fe120a9ce01f87f)
 - [Configuring a Wireless Router and Clients](https://www.loom.com/share/f3cd34bf76524b97995aedcc8165f5fa)
+
+<h2>📜Certifications</h2>
+
+- <b>AI</b>
+  - [Google AI Professional](https://www.credly.com/badges/be2a2af3-e272-49f9-ac05-3ec4bc014754/public_url)
+  - [Per Scholas Cybersecurity with AI Tools](https://www.perscholas.org/courses/cybersecurity-with-ai-tools/)
+- <b>Cybersecurity</b>
+  - [Splunk Core Certified User](https://www.credly.com/badges/bdc009df-e76b-4c6b-900b-2c3e0f5dba45/public_url)
+  - [Google Cybersecurity Professional](https://www.credly.com/badges/519ab2ac-b6d5-4785-b6c0-66c895586bcd/public_url)
+  - [CompTIA Cybersecurity Analyst+ (CySA+)](https://www.credly.com/badges/c346b9ee-1346-4dfe-a6ab-deb1a8100ea5/public_url)
+  - [CompTIA Security+](https://www.credly.com/badges/2aa3f2b4-98ef-46db-a0f6-934195f95207/public_url)
+- <b>Networking and Network Security</b>
+  - [CompTIA Network+](https://www.credly.com/badges/4509d4b5-fe11-43eb-8855-b766ce3060fe/public_url)
+- <b>IT Support</b>
+  - [Google IT Support Professional](https://www.credly.com/badges/05f9183b-3b52-477f-bc70-06a17aa7c3b9/public_url)
+  - [CompTIA A+](https://www.credly.com/badges/568e350c-8cd7-48d4-941e-3d3941877651/public_url)
 
 <h2> 🔗 Connect with me on LinkedIn!</h2>
 
