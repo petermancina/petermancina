@@ -49,8 +49,8 @@
   - [Per Scholas Cybersecurity with AI Tools](https://www.perscholas.org/courses/cybersecurity-with-ai-tools/)
 - <b>Cybersecurity</b>
   - [Splunk Core Certified User](https://www.credly.com/badges/bdc009df-e76b-4c6b-900b-2c3e0f5dba45/public_url)
-  - [Google Cybersecurity Professional](https://www.credly.com/badges/519ab2ac-b6d5-4785-b6c0-66c895586bcd/public_url)
   - [CompTIA Cybersecurity Analyst+ (CySA+)](https://www.credly.com/badges/c346b9ee-1346-4dfe-a6ab-deb1a8100ea5/public_url)
+  - [Google Cybersecurity Professional](https://www.credly.com/badges/519ab2ac-b6d5-4785-b6c0-66c895586bcd/public_url)
   - [CompTIA Security+](https://www.credly.com/badges/2aa3f2b4-98ef-46db-a0f6-934195f95207/public_url)
 - <b>Networking and Network Security</b>
   - [CompTIA Network+](https://www.credly.com/badges/4509d4b5-fe11-43eb-8855-b766ce3060fe/public_url)
