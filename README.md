@@ -9,7 +9,7 @@
 - <b>Vulnerability Assessments</b>
   - [Vulnerability Assessment Report for Kioptrix_3 Linux VM (Coming Soon!!)](https://github.com/petermancina/VulnReportKioptrix3)
 
-<h2>🧭 Proof of Skills Walk-throughs</h2>
+<h2>🧭 Walk-throughs</h2>
 
 - <b>AI Security Investigations</b>
   - [Investigating a malicious AI model pickle file with Python's pickletools](https://github.com/petermancina/AIPickleInvestigation)
