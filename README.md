@@ -13,7 +13,7 @@
 
 <h2>🧭 Proof of Skills Walk-throughs</h2>
 
-- <b>AI Security and Investigations</b>
+- <b>AI Security Investigations</b>
   - [Investigating a malicious AI model pickle file with Python's pickletools](https://github.com/petermancina/AIPickleInvestigation)
   - [Investigating AI dependency confusion attacks (malicious package attacks)](https://github.com/petermancina/AIDependencyConfusion)
 - <b>SQL</b>
