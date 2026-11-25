@@ -15,6 +15,7 @@
 
 - <b>AI Security and Investigations</b>
   - [Investigating a Malicious AI Model Pickle File with Python's pickletools](https://github.com/petermancina/AIPickleInvestigation)
+  - [Investigating AI dependency confusion (malicious typo-squatting package) attacks](https://github.com/petermancina/AIDependencyConfusion)
 - <b>SQL</b>
   - [Investigating Suspicious Login Attempts with SQL Queries](https://github.com/petermancina/SQLLoginInvestigation)
 - <b>Linux</b>
