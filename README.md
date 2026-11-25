@@ -14,7 +14,7 @@
 <h2>🧭 Proof of Skills Walk-throughs</h2>
 
 - <b>AI Security and Investigations</b>
-  - [Investigating a Malicious AI Model Pickle File](https://github.com/petermancina/AIPickleInvestigation)
+  - [Investigating a Malicious AI Model Pickle File with Python's pickletools](https://github.com/petermancina/AIPickleInvestigation)
 - <b>SQL</b>
   - [Investigating Suspicious Login Attempts with SQL Queries](https://github.com/petermancina/SQLLoginInvestigation)
 - <b>Linux</b>
