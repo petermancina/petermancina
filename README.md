@@ -5,7 +5,7 @@
 - <b>Python Projects</b>
   - [Algorithm for file updates in Python](https://github.com/petermancina/PythonFileUpdatesAlgo)
 - <b>SQL Projects</b>
-  - [Investigation of Suspicious Login Attempts with SQL Queries](https://github.com/petermancina/SQLLoginInvestigation)
+  - [Investigating Suspicious Login Attempts with SQL Queries](https://github.com/petermancina/SQLLoginInvestigation)
 - <b>Linux Projects</b>
   - [Modifying File Permissions For Least Privilege in Linux](https://github.com/petermancina/LinuxFilePermissions)
 - <b>SIEM Dashboards</b>
