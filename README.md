@@ -11,7 +11,7 @@
 - <b>Home Lab Projects</b>
   - [Active Directory Home Lab (Coming Soon!!)](https://github.com/petermancina/HomeLabAD)
 
-<h2>🛡️ Proof of Skills Walk-throughs</h2>
+<h2>🧭 Proof of Skills Walk-throughs</h2>
 
 - <b>AI Security and Investigations</b>
   - [Investigating a Malicious AI Model Pickle File](https://github.com/petermancina/AIPickleInvestigation)
