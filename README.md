@@ -4,16 +4,21 @@
 
 - <b>Python Projects</b>
   - [Algorithm for file updates in Python](https://github.com/petermancina/PythonFileUpdatesAlgo)
-- <b>SQL Projects</b>
-  - [Investigating Suspicious Login Attempts with SQL Queries](https://github.com/petermancina/SQLLoginInvestigation)
-- <b>Linux Projects</b>
-  - [Modifying File Permissions For Least Privilege in Linux](https://github.com/petermancina/LinuxFilePermissions)
 - <b>SIEM Dashboards</b>
   - [Elastic VPN Connections Dashboard](https://github.com/petermancina/SIEMElastic)
 - <b>Vulnerability Assessments</b>
   - [Vulnerability Assessment Report for Kioptrix_3 Linux VM (Coming Soon!!)](https://github.com/petermancina/VulnReportKioptrix3)
 - <b>Home Lab Projects</b>
   - [Active Directory Home Lab (Coming Soon!!)](https://github.com/petermancina/HomeLabAD)
+
+<h2>🛡️ Proof of Skills Walk-throughs</h2>
+
+- <b>AI Security and Investigations</b>
+  - [Investigating a Malicious AI Model Pickle File (TryHackMe)](https://github.com/petermancina/AIPickleInvestigation)
+- <b>SQL</b>
+  - [Investigating Suspicious Login Attempts with SQL Queries](https://github.com/petermancina/SQLLoginInvestigation)
+- <b>Linux</b>
+  - [Modifying File Permissions For Least Privilege in Linux](https://github.com/petermancina/LinuxFilePermissions)
 
 <h2>🎬 My Loom Network Security Videos</h2>
 
