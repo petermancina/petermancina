@@ -7,7 +7,7 @@
 - <b>SQL Projects</b>
   - [Investigation of Suspicious Login Attempts with SQL Queries](https://github.com/petermancina/SQLLoginInvestigation)
 - <b>Linux Projects</b>
-  - [Modifying File Permissions in Linux](https://github.com/petermancina/LinuxFilePermissions)
+  - [Modifying File Permissions For Least Privilege in Linux](https://github.com/petermancina/LinuxFilePermissions)
 - <b>Vulnerability Assessments</b>
   - [Vulnerability Assessment Report for Kioptrix_3 Linux VM](https://github.com/petermancina/VulnReportKioptrix3)
 - <b>SIEM Dashboards</b>
