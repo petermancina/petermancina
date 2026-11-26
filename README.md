@@ -7,7 +7,7 @@
 - <b>SIEM Dashboards</b>
   - [Elastic VPN Connections Dashboard](https://github.com/petermancina/SIEMElastic)
 - <b>Vulnerability Assessments</b>
-  - [Vulnerability Assessment Report for Kioptrix_3 Linux VM (Coming Soon!!)](https://github.com/petermancina/VulnReportKioptrix3)
+  - [Vulnerability Assessment Report for Kioptrix_3 Linux VM](https://github.com/petermancina/VulnReportKioptrix3)
 
 <h2>🧭 Investigation Walk-throughs</h2>
 
