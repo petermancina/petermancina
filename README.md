@@ -1,14 +1,5 @@
 <h1>Hi, I'm Peter! <br/><a href="https://www.linkedin.com/in/peter-mancina/">Cybersecurity Professional</a></h1>
 
-<h2>🛡️ Cybersecurity Projects</h2>
-
-- <b>Python Projects</b>
-  - [Algorithm for file updates in Python](https://github.com/petermancina/PythonFileUpdatesAlgo)
-- <b>SIEM Dashboards</b>
-  - [Elastic VPN Connections Dashboard](https://github.com/petermancina/SIEMElastic)
-- <b>Vulnerability Assessments</b>
-  - [Vulnerability Assessment Report for Kioptrix_3 Linux VM](https://github.com/petermancina/VulnReportKioptrix3)
-
 <h2>🧭 Incident Response Walk-throughs</h2>
 
 - <b>Cloud Security Incident Response</b>
@@ -20,6 +11,15 @@
   - [Investigating Suspicious Login Attempts with SQL Queries](https://github.com/petermancina/SQLLoginInvestigation)
 - <b>Linux</b>
   - [Modifying File Permissions For Least Privilege in Linux](https://github.com/petermancina/LinuxFilePermissions)
+
+<h2>🛡️ Cybersecurity Projects</h2>
+
+- <b>Python Projects</b>
+  - [Algorithm for file updates in Python](https://github.com/petermancina/PythonFileUpdatesAlgo)
+- <b>SIEM Dashboards</b>
+  - [Elastic VPN Connections Dashboard](https://github.com/petermancina/SIEMElastic)
+- <b>Vulnerability Assessments</b>
+  - [Vulnerability Assessment Report for Kioptrix_3 Linux VM](https://github.com/petermancina/VulnReportKioptrix3)
 
 <h2>🎬 My Loom Network Configuration and Network Security Videos</h2>
 
