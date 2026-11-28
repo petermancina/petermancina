@@ -9,8 +9,9 @@
 - <b>Vulnerability Assessments</b>
   - [Vulnerability Assessment Report for Kioptrix_3 Linux VM](https://github.com/petermancina/VulnReportKioptrix3)
 
-<h2>🧭 Investigation Walk-throughs</h2>
-
+<h2>🧭 Incident Response Walk-throughs</h2>
+- <b>Cloud Security Incident Response</b>
+  - [Using Google Cloud Security Command Center for Incident Response to a Data Breach on a Google VPC](https://github.com/petermancina/CloudGPCCymbal)
 - <b>AI Security Investigations</b>
   - [Investigating a malicious AI model pickle file with Python's pickletools](https://github.com/petermancina/AIPickleInvestigation)
   - [Investigating AI dependency confusion attacks (malicious package attacks)](https://github.com/petermancina/AIDependencyConfusion)
